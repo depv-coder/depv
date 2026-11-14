@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td valign="top">
+<img align="right" src="avatar.svg" width="240" alt="avatar">
 
 # an intelligent person<br>in his field:)
 
@@ -10,15 +8,7 @@
 I build cool things, study at My University<br>
 and make small silly tools.
 
-</td>
-<td align="right" valign="top" width="220">
-
-<!-- Положи avatar.png в репозиторий -->
-<img src="avatar.png" width="200" alt="avatar">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <p>
   <a href="https://t.me/+mn-73z3bq4c0Zjll"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
