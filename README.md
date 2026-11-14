@@ -1,6 +1,6 @@
-<img align="right" src="avatar.svg" width="240" alt="avatar">
-
 # an intelligent person<br>in his field:)
+
+<img align="right" src="avatar.svg" width="240" alt="avatar">
 
 ### depv hilfider
 <sub>[dɛpv ˈhɪlfɪdɐ]</sub>
